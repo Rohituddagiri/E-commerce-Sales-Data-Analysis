@@ -1,0 +1,101 @@
+CustomerID,AddressType,Address,City,Region,PostalCode,Country
+1,Home,5013 Tomscot Terrace,Buzhakan,KZ-VOS,,Serbia
+2,Home,179 Mcguire Road,Lere,AR-R,,China
+3,Work,535 Riverside Pass,Stratford,US-GA,,China
+4,Work,7857 Darwin Crossing,Krajan,GT-PE,,Indonesia
+5,Work,05974 Packers Avenue,Beberibe,US-HI,12006,Guatemala
+6,Work,37668 Arizona Drive,Baisha,US-WA,461639,Russia
+7,Home,2026 Independence Lane,B_z_rak,US-WY,,Indonesia
+8,Home,9 Schiller Pass,La Esperanza,CN-14,,Peru
+9,Work,562 Acker Hill,Ridderkerk,US-AK,5004,Guatemala
+10,Home,33397 Bartillon Terrace,Caldono,SB-RB,71049,Lithuania
+11,Work,24 Butternut Circle,Leleque,ZW-MN,3700-819,Portugal
+12,Home,24297 Butterfield Place,Xiaochi,CO-SUC,607745,Russia
+13,Work,80 Lighthouse Bay Road,Velké Losiny,CD-KW,517 42,Czech Republic
+14,Home,71 Welch Point,El Paso,US-NV,,China
+15,Home,76429 Monument Crossing,São João da Barra,CA-NU,7020,Philippines
+16,Home,057 Mitchell Alley,Aygavan,US-VA,663214,Russia
+17,Home,01666 Shoshone Court,Maopingchang,CH-TI,,China
+18,Home,4224 Service Junction,Nyuksenitsa,BD-3,,Guinea
+19,Home,15165 Stang Lane,Arnaía,CF-HM,,China
+20,Work,5 Hintze Avenue,Margen,US-AK,,Indonesia
+21,Work,61353 Prentice Plaza,Al J_b,US-MI,9404,Hungary
+22,Home,11011 Harper Terrace,Changping,US-AZ,98-430,Poland
+23,Home,624 Novick Point,Balakliya,AU-NT,98600,Wallis and Futuna
+24,Home,91315 Dennis Center,Velyka Oleksandrivka,ZA-NP,,Indonesia
+25,Work,07883 Toban Crossing,Nay Pyi Taw,DO-18,,China
+26,Home,85690 Dwight Road,Vysokogornyy,CN-61,12030 CEDEX 9,France
+27,Home,3 Fuller Hill,Los Palacios,CO-ANT,699-4502,Japan
+28,Home,88013 Anzinger Hill,Lianshi,AU-WA,729-5122,Japan
+29,Home,79 Talisman Street,Barcelona,RU-TOM,3805,Netherlands
+30,Home,9 Valley Edge Court,Rancagua,BR-SP,,Iran
+31,Home,3 Northwestern Road,Atocha,US-MT,664-0846,Japan
+32,Home,67 Oak Valley Hill,Rättvik,ZA-NP,,China
+33,Work,48 Ridgeview Hill,Ventersdorp,US-RI,89102 CEDEX,France
+34,Work,84 Waubesa Alley,Labney,PH-AUR,,Ghana
+35,Home,96 Anzinger Avenue,Astorga,IR-15,,China
+36,Home,09894 Hooker Alley,Umeå,US-TX,,Mozambique
+37,Home,6 Forest Run Terrace,_awr_n ad Daydah,KE-700,42-152,Poland
+38,Home,963 Pawling Way,Sidem,CA-PE,24120,Thailand
+39,Home,3 Miller Drive,Nahariya,PG-NPP,,China
+40,Home,3161 Maywood Way,San Vicente,FR-B,444038,Colombia
+41,Work,08374 Spenser Junction,Nagrak,VN-15,67404 CEDEX,France
+42,Home,028 Summerview Point,Perfilovo,RU-SA,2446,Philippines
+43,Work,0 Commercial Terrace,Lyon,OM-MA,5098,Norway
+44,Home,4 Eliot Crossing,Gifu-shi,US-CA,,China
+45,Work,37781 Kim Lane,Even Yehuda,AU-VIC,,China
+46,Home,86 Ronald Regan Center,Ocote Paulino,GL-U-A,655735,Russia
+47,Home,403 Rusk Road,San Francisco,US-SC,,Indonesia
+48,Home,00372 Mandrake Court,Pakapasan Ilir,RU-IN,,Kenya
+49,Home,78 Stuart Plaza,Sukhinichi,IL-Z,4705-722,Portugal
+50,Home,57613 Helena Place,Bahía Blanca,US-ND,,China
+51,Home,7850 Scott Trail,Shamva,AU-QLD,,Bosnia and Herzegovina
+52,Home,20341 Johnson Junction,Rychwa_,AR-U,,Indonesia
+53,Work,5 Fuller Place,Medang,CA-QC,,Vietnam
+54,Work,0 Caliangt Plaza,Shuitou,CA-MB,663740,Russia
+55,Home,4 Thackeray Trail,Sult,AU-QLD,,China
+56,Work,7 Sauthoff Hill,Kaliuling,PG-SAN,431 10,Sweden
+57,Home,6165 Ilene Road,Panjerrejo,BR-RS,8536,Argentina
+58,Home,766 Calypso Pass,Woshui,HR-08,10303,Costa Rica
+59,Home,6 Toban Road,Bru_perk,US-LA,,China
+60,Home,043 Fairfield Hill,Sampaloc,BR-MT,1865,Denmark
+61,Home,825 Becker Trail,Bergen,BA-BIH,11830,Sri Lanka
+62,Work,2 Memorial Crossing,Berlin,KM-G,646575,Russia
+63,Home,799 Maywood Parkway,Binjai,ID-JA,,Indonesia
+64,Home,135 Basil Pass,Ye_ilköy,BR-BA,238450,Russia
+65,Work,21549 Village Green Plaza,Tongquan,PG-MPL,6305,Philippines
+66,Home,3 Straubel Place,Dolod,CA-YT,,Indonesia
+67,Work,9 Forest Run Center,Liuqu,US-MT,68517,United States
+68,Home,2287 Vahlen Parkway,Khlong Sam Wa,EG-MT,,Ukraine
+69,Home,03114 Scoville Plaza,Demir Hisar,PK-PB,5600,Argentina
+70,Home,5080 Randy Parkway,Uddiawan,US-CA,,China
+71,Home,64440 Muir Drive,Bolnisi,US-GA,,Vietnam
+72,Home,841 Eastwood Street,Icó,PG-NPP,,Indonesia
+73,Work,1427 Beilfuss Terrace,Ribnica na Pohorju,ET-SO,,China
+74,Work,1508 Sheridan Terrace,Mellila,PK-PB,,China
+75,Home,2737 Ramsey Point,Ulanov,RU-KO,475-0803,Japan
+76,Home,2 Cordelia Plaza,Pergamos,US-MD,4755-211,Portugal
+77,Work,78169 Merry Trail,Pampa de los Guanacos,KE-700,353650,Russia
+78,Home,3 Del Sol Avenue,Shangyong,RU-IRK,55636-000,Brazil
+79,Home,647 Amoth Lane,Swift Current,GN-F,,Ukraine
+80,Home,08053 International Pass,Yonkers,DE-HB,59208 CEDEX,France
+81,Home,109 Jana Terrace,D_r_ al Qar‘,GB-SCT,,China
+82,Home,207 Comanche Place,Cherbourg-Octeville,CF-OP,368580,Russia
+83,Home,50227 Judy Hill,Bisert’,MR-08,51468,Colombia
+84,Home,49622 Mifflin Way,Chacapalpa,US-NE,91851 CEDEX,France
+85,Work,21 Elgar Parkway,Shanghuang,VE-K,,Israel
+86,Work,3265 Victoria Plaza,Usquil,PG-WBK,,Indonesia
+87,Home,9927 Barnett Pass,Yelenendorf,AU-QLD,94946 CEDEX 9,France
+88,Home,493 North Center,Salwá,DZ-07,,China
+89,Home,3 Debs Lane,Shuishiying,ID-SB,9510,Philippines
+90,Work,7 6th Court,Nakhabino,IL-D,,Peru
+91,Home,55 Florence Hill,Ringim,TR-10,,Tanzania
+92,Home,6 Dapin Alley,Binzhou,TW-TTT,2811,Philippines
+93,Home,24 Troy Place,Taraju,US-CA,,China
+94,Work,15128 Brentwood Drive,Piracicaba,US-MN,,Indonesia
+95,Home,62047 Nevada Crossing,Imatra,CA-SK,2821,Norway
+96,Home,2 Eagan Junction,Putrajawa,KI-P,,Indonesia
+97,Home,91912 Morning Lane,Huicheng,UM-79,,China
+98,Home,4329 Bartelt Junction,Rakaia,PA-8,,Tanzania
+99,Home,03474 Mosinee Plaza,Talcahuano,US-CO,1225,Macedonia
+100,Work,8738 Reinke Court,Malko T_rnovo,KE-700,9488,Liechtenstein
