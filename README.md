@@ -5,7 +5,7 @@ Our project primarily focuses on the analysis of transaction order statistics ma
 
 ## Business Rules
 Some of the key business rules established for the project include:
-![Business Rules]([path_to_your_image/business_rules.png](https://github.com/Rohituddagiri/E-commerce-Sales-Data-Analysis/blob/main/image.png))
+![Business Rules](https://github.com/Rohituddagiri/E-commerce-Sales-Data-Analysis/blob/main/image.png)
 
 ## ERD Diagram
 The Entity-Relationship Diagram (ERD) represents the structure of our e-commerce database system:
