@@ -15,19 +15,19 @@ The Entity-Relationship Diagram (ERD) represents the structure of our e-commerce
 The project includes several data analyses based on specific queries. Below are the scenarios and their visualizations:
 
 ### Scenario 1: Countries with Most Orders in the First Half of 2022
-![Countries with Most Orders](https://github.com/Rohituddagiri/E-commerce-Sales-Data-Analysis/blob/main/ERD/image.png)
+![Countries with Most Orders](https://github.com/Rohituddagiri/E-commerce-Sales-Data-Analysis/blob/main/Data_Visualizations/q1.png)
 
 ### Scenario 2: Most Sold Products in Each Category
-![Most Sold Products](path_to_your_image/most_sold_products_category.png)
+![Most Sold Products](https://github.com/Rohituddagiri/E-commerce-Sales-Data-Analysis/blob/main/Data_Visualizations/q2.png)
 
 ### Scenario 3: Countries with Most Suppliers with Ratings Greater than Average
-![Countries with Most Suppliers](path_to_your_image/countries_most_suppliers.png)
+![Countries with Most Suppliers](https://github.com/Rohituddagiri/E-commerce-Sales-Data-Analysis/blob/main/Data_Visualizations/q3.png)
 
 ### Scenario 4: Most Returned Products in Each Category
-![Most Returned Products](path_to_your_image/most_returned_products_category.png)
+![Most Returned Products](https://github.com/Rohituddagiri/E-commerce-Sales-Data-Analysis/blob/main/Data_Visualizations/q4.png)
 
 ### Scenario 5: Payment Trends Across 2021-22
-![Payment Trends](path_to_your_image/payment_trends_2021_22.png)
+![Payment Trends](https://github.com/Rohituddagiri/E-commerce-Sales-Data-Analysis/blob/main/Data_Visualizations/q5.png)
 
 ## Learnings
 - Transition from many-to-many to one-to-many relationships between suppliers and products.
