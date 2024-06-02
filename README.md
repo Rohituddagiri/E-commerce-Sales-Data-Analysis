@@ -9,13 +9,13 @@ Some of the key business rules established for the project include:
 
 ## ERD Diagram
 The Entity-Relationship Diagram (ERD) represents the structure of our e-commerce database system:
-![ERD Diagram](path_to_your_image/erd_diagram.png)
+![ERD Diagram](https://github.com/Rohituddagiri/E-commerce-Sales-Data-Analysis/blob/main/ERD/image.png)
 
 ## Data Analysis
 The project includes several data analyses based on specific queries. Below are the scenarios and their visualizations:
 
 ### Scenario 1: Countries with Most Orders in the First Half of 2022
-![Countries with Most Orders](path_to_your_image/countries_most_orders_2022.png)
+![Countries with Most Orders](https://github.com/Rohituddagiri/E-commerce-Sales-Data-Analysis/blob/main/ERD/image.png)
 
 ### Scenario 2: Most Sold Products in Each Category
 ![Most Sold Products](path_to_your_image/most_sold_products_category.png)
