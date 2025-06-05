@@ -1,7 +1,7 @@
 # E-commerce Sale Data Analysis
 
 ## Introduction
-Our project primarily focuses on the analysis of transaction order statistics maintained by an e-commerce website. This database system is designed to provide valuable business insights such as spending trends, product sales, and seller ratings. By maintaining extensive data on customers, payment attributes, and seller/product information, the goal is to understand the relationships between different business entities and ensure the efficient functioning of the database system.
+The project primarily focuses on the analysis of transaction order statistics maintained by an e-commerce website. This database system is designed to provide valuable business insights such as spending trends, product sales, and seller ratings. By maintaining extensive data on customers, payment attributes, and seller/product information, the goal is to understand the relationships between different business entities and ensure the efficient functioning of the database system.
 
 ## Business Rules
 Some of the key business rules established for the project include:
